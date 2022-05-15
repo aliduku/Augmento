@@ -36,4 +36,4 @@ To  help  in  solving  the Image Augmentation  problem,  we  introduce  **Augmen
 ### 8) Vertical flip
 ![image](https://user-images.githubusercontent.com/102156303/168448965-d6010080-4259-4dfa-9623-ccf12ab91a98.png)
 
-You can download the .exe file for windows and enjoy
+You can download the Augmento.exe file for windows from the releases page and enjoy
