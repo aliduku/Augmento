@@ -1,5 +1,5 @@
 # Augmento
-To  help  in  solving  the Image Augmentation  problem,  we  introduce  **Augmento**. Augmento is a python-based program which takes existing dataset of images and produces a larger dataset by applying different image transforming techniques **randomly**.
+To  help  in  solving  the Image Augmentation  problem,  we  introduce  **Augmento**. Augmento is a python-based program which takes existing datasets of images and produces larger datasets by applying **random** different image processing techniques.
 
 ![image](https://user-images.githubusercontent.com/102156303/168449066-fb7db7a1-11b2-481d-a15c-43750dbb6e2c.png)
 
